@@ -28,4 +28,4 @@ const ANUJ = {
    <img src="https://komarev.com/ghpvc/?username=AnujMadhoria">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/AnujMadhoria/FigureBed/master/img/readme-bottom.png)
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
