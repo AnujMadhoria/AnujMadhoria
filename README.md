@@ -14,7 +14,7 @@ const ANUJ = {
         },
         backEnd: ["Next", "Node","Express"],
         databases: ["MySql"],
-    }
+    },
     tools: ["Excel", "PowerBi"],
 };
 ```
